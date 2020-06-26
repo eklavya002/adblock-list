@@ -1,0 +1,11 @@
+[AdblockPlus 2.0]
+! Name: lite adblock
+! Expire: 7 days
+! Homepage: [AdblockPlus 2.0]
+! Name: lite adblock
+! Expire: 7 days
+! Homepage: https://raw.githubusercontent.com/eklavya002/adblock-list/master/lite%20adblock.txt
+!
+||rosilyloompap.work
+||jiosaavn.com
+|| saavn.com

@@ -1,37 +1,11 @@
 [AdblockPlus 2.0]
 ! Name: lite adblock
 ! Expire: 7 days
-# --------------------------------------------
-# L O C A L  H O S T
-# --------------------------------------------
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
-# --------------------------------------------
-#
-# --------------------------------------------
-# F E A T U R E S
-# --------------------------------------------
-# _hosts based: based on Hosts file.
-# _any device: compatible with all devices.
-# _blockings: strictly blocks web annoyances.
-# _formats: most used formats.
-# _speed: reduces page loading time.
-# _privacy: increases privacy.
-# _saves expense: decreases data consumption.
-# _clean: no extra abracadabra!
-# --------------------------------------------
+! Homepage: [AdblockPlus 2.0]
+! Name: lite adblock
+! Expire: 7 days
+! Homepage: https://raw.githubusercontent.com/eklavya002/adblock-list/master/lite%20adblock.txt
+
 0.0.0.0 rosilyloompap.work
 0.0.0.0 jiosaavn.com
 0.0.0.0 saavn.com
