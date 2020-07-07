@@ -21,4 +21,6 @@
 ||9xmovies.cloud^$popup
 ||ssrmovies.site^$popup
 ||thenewstreams.com
-||9xmovies.cloud^$~popup
+||9xmovies.cloud^$script
+||9xmovies.cloud^$popup,third-party
+||ssrmovies.site^$popup,third-party
