@@ -14,3 +14,6 @@
 ||staitchu.com
 ||vuukle.com
 ||disqus.com
+||postlnk.com
+||speaker-news.com
+||medianetto.com
