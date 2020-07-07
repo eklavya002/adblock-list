@@ -20,3 +20,5 @@
 ||9xmovies.cloud/wp-content/themes/9xmovies/assets/logo.png
 ||9xmovies.cloud^$popup
 ||ssrmovies.site^$popup
+||thenewstreams.com
+||9xmovies.cloud^$~popup
