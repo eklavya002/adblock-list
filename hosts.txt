@@ -22,5 +22,6 @@
 ||ssrmovies.site^$popup
 ||thenewstreams.com
 ||9xmovies.cloud^$script
+||latestsocial.com
 
 
