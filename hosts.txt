@@ -32,6 +32,7 @@
 ||crsspxl.com
 ||stats.wp.com
 @@||pagead2.googlesyndication.com/pagead/js/$script,domain=apkmirror.com
+||apkmirror.com##script:contains(canRunAds = false)
 
 
 
