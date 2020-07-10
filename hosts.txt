@@ -32,7 +32,8 @@
 ||crsspxl.com
 ||stats.wp.com
 @@||pagead2.googlesyndication.com/pagead/js/$script,domain=apkmirror.com
-||apkmirror.com##script:contains(canRunAds = false)
+!apkmirror.com##script:contains(canRunAds = false)
+||www.apkmirror.com$inline-script,domain=www.apkmirror.com
 
 
 
