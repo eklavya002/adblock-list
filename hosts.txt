@@ -23,5 +23,15 @@
 ||thenewstreams.com
 ||9xmovies.cloud^$script
 ||latestsocial.com
+||googlesyndication.com
+||fonts.googleapis.com
+||apkmirror.com##js(nano-sib)
+||apkmirror.com##+js(aopw,rantwice)
+||pro-market.net
+||consensu.org
+||quantserve.com
+||crsspxl.com
+||stats.wp.com
+
 
 
