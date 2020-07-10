@@ -31,6 +31,7 @@
 ||quantserve.com
 ||crsspxl.com
 ||stats.wp.com
+@@||pagead2.googlesyndication.com/pagead/js/$script,domain=apkmirror.com
 
 
 
