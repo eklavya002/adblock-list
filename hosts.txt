@@ -21,7 +21,6 @@
 ||9xmovies.cloud^$popup
 ||ssrmovies.site^$popup
 ||thenewstreams.com
-||9xmovies.cloud^$script
 ||latestsocial.com
 ||googlesyndication.com
 ||fonts.googleapis.com
