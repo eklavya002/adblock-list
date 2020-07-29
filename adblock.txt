@@ -4,7 +4,7 @@
 ! Homepage: [AdblockPlus 2.0]
 ! Name: lite adblock
 ! Expire: 7 days
-! Homepage: https://raw.githubusercontent.com/eklavya002/adblock-list/master/hosts.txt
+! Homepage: https://raw.githubusercontent.com/eklavya002/adblock-list/master/adblock.txt
 !
 ||rosilyloompap.work
 ||jiosaavn.com
