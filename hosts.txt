@@ -17,9 +17,8 @@
 ||postlnk.com
 ||speaker-news.com
 ||medianetto.com
-||9xmovies.cloud/wp-content/themes/9xmovies/assets/logo.png
-||9xmovies.cloud^$popup
-||ssrmovies.site^$popup
+||9xmovies.media^$popup
+||ssrmovies.host^$popup
 ||thenewstreams.com
 ||latestsocial.com
 ||googlesyndication.com
@@ -31,9 +30,7 @@
 ||quantserve.com
 ||crsspxl.com
 ||stats.wp.com
-@@||pagead2.googlesyndication.com/pagead/js/$script,domain=apkmirror.com
-!apkmirror.com##script:contains(canRunAds = false)
 ||www.apkmirror.com$inline-script,domain=www.apkmirror.com
-
+||9xmovies.media^$third-party
 
 
