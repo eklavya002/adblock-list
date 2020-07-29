@@ -32,7 +32,5 @@
 ||stats.wp.com
 ||www.apkmirror.com$inline-script,domain=www.apkmirror.com
 ||9xmovies.media^$third-party
-@@||platform.twitter.com/widgets.js
-@@||https://platform.twitter.com
-
+"*://*.thehindu.com/*"
 
