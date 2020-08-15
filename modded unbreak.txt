@@ -959,3 +959,6 @@ livejournal.com##+js(aopr, webpackJsonpSSPjs)
 @@||amebame.com/pub/ads/$domain=ameblo.jp
 @@||stat100.ameba.jp/blogportal/img/banner/$image
 @@||facebook.com
+||www.news18.com##.ad-container > div
+||www.news18.com##.ad-container
+
