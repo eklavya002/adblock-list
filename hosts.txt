@@ -23,14 +23,15 @@
 ||latestsocial.com
 ||googlesyndication.com
 ||fonts.googleapis.com
-||apkmirror.com##js(nano-sib)
-||apkmirror.com##+js(aopw,rantwice)
 ||pro-market.net
 ||consensu.org
 ||quantserve.com
 ||crsspxl.com
 ||stats.wp.com
-||www.apkmirror.com$inline-script,domain=www.apkmirror.com
-||9xmovies.media^$third-party
-||thehindu.com^$cookie
+||www.news18.com##.ad-container > div
+||www.news18.com##.ad-container
+||www.news18.com###main > div:nth-of-type(4) > div
+||www.news18.com###main > div:nth-of-type(4)
+||www.news18.com##body > div:nth-of-type(4) > div
+||www.news18.com##body > div:nth-of-type(4)
 
