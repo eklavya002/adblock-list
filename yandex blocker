@@ -1,0 +1,34 @@
+[AdblockPlus 2.0]
+! Name: lite adblock
+! Expire: 7 days
+! Homepage: [AdblockPlus 2.0]
+! Name: lite adblock
+! Expire: 7 days
+! Homepage: https://raw.githubusercontent.com/eklavya002/adblock-list/master/yandexblocker.txt
+!
+||startup.mobile.yandex.net
+||dr.yandex.com
+||yastatic.net
+||yandex.ru
+||api.lbs.yandex.net
+||api.browser.yandex.ru
+||games.yandex.com
+||report.appmetrica.yandex.net
+||analytics.mobile.yandex.net
+||mobile.yandexadexchange.net
+||redirect.appmetrica.yandex.com
+||rosenberg.appmetrica.yandex.net
+||certificate.mobile.yandex.net
+||storage.ape.yandex.net
+||app.adjust.com
+||storage.mds.yandex.net
+||mobile.retail.yandex.net
+||api.browser.yandex.net
+||app-measurement.com
+||u.startup.mobile.wbvisor.com
+||mx.yandex.net
+||tools.massenger.yandex.net
+||api.messenger.yandex.net
+||push.yandex.ru
+||api.browser.yandex.com
+||api.browser.yandex.net
