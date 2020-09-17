@@ -1,0 +1,43 @@
+# AdAway yandex blocklist 
+# Blocking mobile ad providers and some analytics providers
+# Fetch the latest version of this file:
+
+# Contributions by:
+# Eklavya002.
+
+#
+
+127.0.0.1  localhost
+::1  localhost
+
+#
+127.0.0.1  startup.mobile.yandex.net
+127.0.0.1  dr.yandex.com
+127.0.0.1  yastatic.net
+127.0.0.1  yandex.ru
+127.0.0.1  api.lbs.yandex.net
+127.0.0.1  api.browser.yandex.ru
+127.0.0.1  games.yandex.com
+127.0.0.1  report.appmetrica.yandex.net
+127.0.0.1  analytics.mobile.yandex.net
+127.0.0.1  mobile.yandexadexchange.net
+127.0.0.1  redirect.appmetrica.yandex.com
+127.0.0.1  rosenberg.appmetrica.yandex.net
+127.0.0.1  certificate.mobile.yandex.net
+127.0.0.1  storage.ape.yandex.net
+127.0.0.1  app.adjust.com
+127.0.0.1  storage.mds.yandex.net
+127.0.0.1  mobile.retail.yandex.net
+127.0.0.1  api.browser.yandex.net
+127.0.0.1  app-measurement.com
+127.0.0.1  u.startup.mobile.wbvisor.com
+127.0.0.1  mx.yandex.net
+127.0.0.1  tools.massenger.yandex.net
+127.0.0.1  api.messenger.yandex.net
+127.0.0.1  push.yandex.ru
+127.0.0.1  api.browser.yandex.com
+127.0.0.1  api.browser.yandex.net
+127.0.0.1  dr.yandex.ru
+127.0.0.1  dr.yandex.net
+127.0.0.1  startup.mobile.yandex.com
+127.0.0.1  startup.mobile.yandex.ru
